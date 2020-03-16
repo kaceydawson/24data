@@ -1,0 +1,10 @@
+body {
+    color: #5bb85d !important;
+}
+nav .row {
+    color: #ffffff;
+    background-color: #5bb85d;    
+}
+.minimized {
+    width: 50%;   
+}
